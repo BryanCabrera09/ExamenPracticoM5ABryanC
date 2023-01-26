@@ -50,7 +50,7 @@ public class EmpleadoController {
 	public ResponseEntity<Empleado> crear(@Valid @RequestBody Empleado e) {
 
 		if (e.getDias_trabajo() >= 20) {
-			
+
 			int sueldo_tot = e.getDias_trabajo() * 15;
 
 			double aumento = sueldo_tot * 0.02;

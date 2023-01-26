@@ -1,0 +1,5 @@
+INSERT INTO empleado(id_empleado,apellido,dias_trabajo,direccion,fecha_nacimiento,nombre,observacion,sueldo,telefono) VALUES (1,'Cabrera',12,'mi casa','2022-12-11','Bryan','Ninguna',122.55,'4034471')
+INSERT INTO empleado(id_empleado,apellido,dias_trabajo,direccion,fecha_nacimiento,nombre,observacion,sueldo,telefono) VALUES (2,'Ochoa',22,'su casa','2010-11-25','Juan','Ninguna',155.55,'4034471')
+INSERT INTO empleado(id_empleado,apellido,dias_trabajo,direccion,fecha_nacimiento,nombre,observacion,sueldo,telefono) VALUES (3,'Benitez',35,'el casa','2005-10-11','Juana','Ninguna',175.55,'4034471')
+
+Link documento con capturas: https://drive.google.com/drive/folders/1uBvFsW8d4G21SS8UZsyiCk55F03RcGDs?usp=sharing
